@@ -3,8 +3,6 @@
 Description: Using Google Youtube Search API, it's a React App just like Youtube. It has a search input and based on the search query, shows results. 
 There is be a single selected Item with the Video Player on the left side, just like youtube. 
 
-JIRA: https://edlyio.atlassian.net/browse/EDLY-1234
-
 Installation instructions:
 
 1. Clone the repo
