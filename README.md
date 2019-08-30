@@ -6,8 +6,8 @@ There is be a single selected Item with the Video Player on the left side, just 
 Installation instructions:
 
 1. Clone the repo
-2. Run make requirements
-3. Run server by using command npm start
+2. Install node_modules by running `npm install`
+3. Run server by using command `npm start`
 
 Testing instructions:
 
